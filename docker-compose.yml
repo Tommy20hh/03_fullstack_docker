@@ -61,6 +61,6 @@ volumes:
   mysql_data:
 
 networks:
-  stack:
+stack:
     driver: bridge
 
